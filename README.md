@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naphon intusai
 ======================================================================================================================================
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Mispitz-github-username&style=flat-square&color=blue" alt=""/>
 
 * 🌍  I'm based in Chang Mai
 * ✉️  You can contact me at [npitz.ze@gmail.com](mailto:npitz.ze@gmail.com)
